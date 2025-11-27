@@ -23,7 +23,7 @@ Tujuan pembuatan aplikasi ini adalah untuk mempraktikkan:
 ⚪ Menangani perubahan konfigurasi seperti rotasi layar
 
 
-Fitur Utama
+Fitur Utama ini adalah :
 
 ⚪ Mengetuk dessert untuk menambah jumlah penjualan
 
