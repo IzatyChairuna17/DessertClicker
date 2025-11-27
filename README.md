@@ -1,10 +1,13 @@
 🍰 Dessert Clicker App 🍩
+
 Aplikasi Android sederhana untuk mempelajari lifecycle Activity, ViewBinding, dan pengelolaan state di Android.
 
 Dessert Clicker adalah aplikasi interaktif di mana pengguna dapat mengetuk gambar dessert (kue) untuk “menjual” dessert.
 Setiap ketukan akan menambah jumlah dessert terjual dan total pendapatan.
 
 ![WhatsApp Image 2025-11-27 at 19 12 13](https://github.com/user-attachments/assets/41870a59-5504-4151-8978-1bf94cbbebda)
+
+
 ![WhatsApp Image 2025-11-27 at 19 13 21](https://github.com/user-attachments/assets/d0dd70f5-2fb8-4247-9209-272dd2232974)
 
 
