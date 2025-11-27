@@ -14,23 +14,23 @@ Setiap ketukan akan menambah jumlah dessert terjual dan total pendapatan.
 
 Tujuan pembuatan aplikasi ini adalah untuk mempraktikkan:
 
-Cara kerja lifecycle Activity (onCreate, onStart, onResume, dll.)
+⚪ Cara kerja lifecycle Activity (onCreate, onStart, onResume, dll.)
 
-Cara menggunakan ViewBinding untuk mengakses komponen UI
+⚪ Cara menggunakan ViewBinding untuk mengakses komponen UI
 
-Cara mengelola dan memperbarui state tampilan
+⚪ Cara mengelola dan memperbarui state tampilan
 
-Menangani perubahan konfigurasi seperti rotasi layar
+⚪ Menangani perubahan konfigurasi seperti rotasi layar
 
 
 Fitur Utama
 
-Mengetuk dessert untuk menambah jumlah penjualan
+⚪ Mengetuk dessert untuk menambah jumlah penjualan
 
-Total revenue bertambah secara otomatis
+⚪ Total revenue bertambah secara otomatis
 
-Gambar dessert berubah sesuai jumlah yang terjual
+⚪ Gambar dessert berubah sesuai jumlah yang terjual
 
-Data tidak hilang saat rotasi layar
+⚪ Data tidak hilang saat rotasi layar
 
-Tombol share untuk membagikan hasil (opsional)
+⚪ Tombol share untuk membagikan hasil (opsional)
