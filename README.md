@@ -21,6 +21,8 @@ Dessert Clicker adalah aplikasi sederhana di mana pengguna dapat:
 
 
 
+
+
 Tujuan pembuatan aplikasi ini adalah untuk mempraktikkan:
 
 ⚪ Cara kerja lifecycle Activity (onCreate, onStart, onResume, dll.)
@@ -30,6 +32,7 @@ Tujuan pembuatan aplikasi ini adalah untuk mempraktikkan:
 ⚪ Cara mengelola dan memperbarui state tampilan
 
 ⚪ Menangani perubahan konfigurasi seperti rotasi layar
+
 
 
 By : Izaty Chairuna (243307108)
