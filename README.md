@@ -20,6 +20,7 @@ Dessert Clicker adalah aplikasi sederhana di mana pengguna dapat:
 4. Dessert akan berubah otomatis sesuai jumlah penjualan (dessert level).
 
 
+
 Tujuan pembuatan aplikasi ini adalah untuk mempraktikkan:
 
 ⚪ Cara kerja lifecycle Activity (onCreate, onStart, onResume, dll.)
